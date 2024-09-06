@@ -1,0 +1,1 @@
+2025rc_chassis_jgn\startup_stm32f405xx.o: startup_stm32f405xx.s
